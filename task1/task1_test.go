@@ -21,6 +21,11 @@ func TestTask1(t *testing.T) {
 			2,
 			2,
 		},
+		{
+			12,
+			2,
+			0,
+		},
 	}
 
 	for _, tt := range tests {
